@@ -7,7 +7,7 @@ The claasical method involves several steps, it starts with corner detection. Th
 ### How to Run:
 Place the image pairs in the dir:"../Data/Train/Set1/" and run the following command:  
 ```
- Wrapper.py
+ python3 Wrapper.py
 ```
 
 The classical pipeline is given below:  
@@ -35,13 +35,13 @@ The deep learning model effectively combines corner detection, ANMS, feature ext
 
 Run the following to generate the dataset
 ```
-Datagen.py
+python3 Datagen.py
 ```
 Divide train and validation. and run:
 ```
-network.py
-Train.py
-Test.py
+python3 network.py
+python3 Train.py
+python3 Test.py
 ```
 
 The network pipeline is given below:  
