@@ -52,9 +52,6 @@ We followed a supervised model and obtained the follwing results:
 The following picture shows the input and output patch from the trained network. 
 <img src="Results/p2_res.png"  align="center" alt="Undistorted" width="500"/>
 
-The training loss over number of epochs is given below:
-
-<img src="Results/p2_loss.png"  align="center" alt="Undistorted" width="500"/>
 
 ## Acknowledgement 
 
